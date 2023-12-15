@@ -1,7 +1,9 @@
 <p align="center">
   <p align="center">
+    <a href="https://luxurycrown.org">
     <img src="https://github.com/luxurycrown-org/brandbook/assets/6504337/f1501a2b-d510-453e-b7d6-4acda58a6cfb" height="130" alt="luxurycrown" />
-  </p>
+    </a> 
+ </p>
   <h3 align="center">
     luxurycrown Brand Book
   </h3>
